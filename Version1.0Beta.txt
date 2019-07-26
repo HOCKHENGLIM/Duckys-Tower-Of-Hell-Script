@@ -1,1 +1,1 @@
-{"AllowExecution": false}
+{"AllowExecution": true}
